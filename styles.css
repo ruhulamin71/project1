@@ -1,0 +1,24 @@
+body{
+    color: #626262;
+    background-color:ghostwhite;
+}
+.container{
+    overflow: hidden;
+    width: 90%;
+    margin: 0 auto;
+}
+.container2{
+    overflow: hidden;
+    width: 35%;
+    height: 20%;
+    margin: 0 auto;
+}
+table{
+    row-gap: 10px;
+}
+#p{
+    float: right;
+}
+.container3{
+    text-align: center;
+}

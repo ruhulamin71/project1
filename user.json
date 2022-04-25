@@ -1,0 +1,16 @@
+{
+    "user1":[
+        {
+            "name1":"peter",
+            "email":"peter@gmail.com",
+            "birthday":"2 february 1997",
+            "gender":"male",
+        },
+        {
+            "name2":"peter",
+            "email":"peter@gmail.com",
+            "birthday":"2 february 1997",
+            "gender":"male",
+        }
+    ]
+}
